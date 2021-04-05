@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgba(255, 0, 0, 1));
+    background-repeat: repeat;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+    color: #6A1B9A;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
